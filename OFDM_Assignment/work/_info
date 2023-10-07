@@ -1,0 +1,242 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Desktop/kkk
+T_opt
+!s110 1638158628
+VaP=DnGV`UQYHi3P[Lf9Al0
+Z1 04 9 4 work Caifft_tb fast 0
+=4-fc34974a7932-61a45124-1c4-3844
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2019.2;69
+R0
+T_opt1
+!s110 1638168765
+V6NDUh<D@Rb[PQ_YjZGRVH3
+R1
+=1-fc34974a7932-61a478bc-3e0-43f8
+o-quiet -auto_acc_if_foreign -work work
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1638346523
+V54BjgQ2BWJ?;7a=1_=<km3
+R1
+=1-fc34974a7932-61a72f1b-131-28a0
+R2
+R3
+n@_opt2
+R4
+vbutterfly
+Z5 !s110 1638346513
+!i10b 1
+!s100 R7RK6IXG_UGa4TZG^=KDE2
+!s11b ^XlX]96h_=SA@6[51hR@73
+Ii;9Jo4Al68o0=nUY0@U<i1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1637826548
+8C:/Users/ASUS/Desktop/kkk/butterfly.v
+FC:/Users/ASUS/Desktop/kkk/butterfly.v
+L0 12
+Z7 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z8 !s108 1638346513.000000
+!s107 C:/Users/ASUS/Desktop/kkk/butterfly.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/butterfly.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vCaifft_tb
+R5
+!i10b 1
+!s100 a>]1Q8ZbTiTC5dI66EAQB0
+!s11b fMLGhBE9eROMW=l^Qz_;:0
+I@nd^mRkV?ai25zgV?[NPQ0
+R6
+R0
+w1638346509
+8C:/Users/ASUS/Desktop/kkk/Caifft_tb.v
+FC:/Users/ASUS/Desktop/kkk/Caifft_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ASUS/Desktop/kkk/Caifft_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/Caifft_tb.v|
+!i113 0
+R9
+R3
+n@caifft_tb
+vCoder
+R5
+!i10b 1
+!s100 2[4@_mFL@bo3iLD:7bMEA0
+!s11b iMJminmY87:RVgRhVa]nE2
+IW37cX12LcB3L2<QB]X2j>1
+R6
+R0
+w1638152020
+8C:/Users/ASUS/Desktop/kkk/Coder.v
+FC:/Users/ASUS/Desktop/kkk/Coder.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ASUS/Desktop/kkk/Coder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/Coder.v|
+!i113 0
+R9
+R3
+n@coder
+vdatastall
+R5
+!i10b 1
+!s100 BIRAW<HM@gb]79R>SX>O61
+!s11b Tio9okU5OmeNhA7oL`2D40
+INll4CBi8ZST=PTjDL3S>23
+R6
+R0
+w1638346212
+8C:\Users\ASUS\Desktop\kkk\datastall.v
+FC:\Users\ASUS\Desktop\kkk\datastall.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\ASUS\Desktop\kkk\datastall.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\ASUS\Desktop\kkk\datastall.v|
+!i113 0
+R9
+R3
+vDecoder
+R5
+!i10b 1
+!s100 fGG3[=Z`^]M^4Pk;Bo_K23
+!s11b gXl`;4XO5hH[iXO@W9T:k0
+I>O;0WLF_KEd=6N;W=9i;F1
+R6
+R0
+w1638158138
+8C:/Users/ASUS/Desktop/kkk/Decoder.v
+FC:/Users/ASUS/Desktop/kkk/Decoder.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ASUS/Desktop/kkk/Decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/Decoder.v|
+!i113 0
+R9
+R3
+n@decoder
+vdemodem
+Z10 !s110 1638346514
+!i10b 1
+!s100 oG:RK=o?TakDVG]]f8:5=0
+!s11b ohWAn[1GnT7a5hRSmVD742
+Ia]WXD]dz^oiO=d3h<f1593
+R6
+R0
+w1638156128
+8C:/Users/ASUS/Desktop/kkk/demodem.v
+FC:/Users/ASUS/Desktop/kkk/demodem.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z11 !s108 1638346514.000000
+!s107 C:/Users/ASUS/Desktop/kkk/demodem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/demodem.v|
+!i113 0
+R9
+R3
+vfft8
+R10
+!i10b 1
+!s100 o`zeLa_T4MPjZoiG=b;f90
+!s11b bZjoXEc[m?YlWM@X=eF?l2
+Ife?X7iE`^d];ZXhbJom8X1
+R6
+R0
+w1637826549
+8C:/Users/ASUS/Desktop/kkk/fft8.v
+FC:/Users/ASUS/Desktop/kkk/fft8.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/ASUS/Desktop/kkk/fft8.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/fft8.v|
+!i113 0
+R9
+R3
+vhermitian
+R10
+!i10b 1
+!s100 j>FcdgeIZW=X[E;T?<DG^3
+!s11b ;72D0AT3gb:172;jUQcXm2
+Ielidi`bAb0z:@Dd5Mek3L2
+R6
+R0
+w1637856153
+8C:/Users/ASUS/Desktop/kkk/hermitian.v
+FC:/Users/ASUS/Desktop/kkk/hermitian.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/ASUS/Desktop/kkk/hermitian.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ASUS/Desktop/kkk/hermitian.v|
+!i113 0
+R9
+R3
+vModem
+R10
+!i10b 1
+!s100 b=8O3WI``>QMXXjNl23ZQ1
+!s11b kMcOhkfnIWSz]DG`2c=Uh2
+IL@zV4IUV_Tg2iLZfa>W5`2
+R6
+R0
+w1638152739
+8C:\Users\ASUS\Desktop\kkk\Modem.v
+FC:\Users\ASUS\Desktop\kkk\Modem.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:\Users\ASUS\Desktop\kkk\Modem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\ASUS\Desktop\kkk\Modem.v|
+!i113 0
+R9
+R3
+n@modem

@@ -1,0 +1,57 @@
+C:/Users/ASUS/Desktop/kkk/demodem.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/demodem.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module demodem
+
+Top level modules:
+	demodem
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/fft8.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/fft8.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module fft8
+
+Top level modules:
+	fft8
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/hermitian.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/hermitian.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module hermitian
+
+Top level modules:
+	hermitian
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/Coder.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/Coder.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module Coder
+
+Top level modules:
+	Coder
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/butterfly.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/butterfly.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module butterfly
+
+Top level modules:
+	butterfly
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/Modem.v {1 {vlog -work work -vopt -stats=none {C:\Users\ASUS\Desktop\kkk\Modem.v}
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module Modem
+
+Top level modules:
+	Modem
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/Decoder.v {1 {vlog -work work -vopt -stats=none C:/Users/ASUS/Desktop/kkk/Decoder.v
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/ASUS/Desktop/kkk/datastall.v {1 {vlog -work work -vopt -stats=none {C:\Users\ASUS\Desktop\kkk\datastall.v}
+Model Technology ModelSim SE-64 vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module datastall
+
+Top level modules:
+	datastall
+
+} {} {}}
